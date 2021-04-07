@@ -1,0 +1,22 @@
+ 
+Data 
+
+1. Name
+2. DOB
+3. Locality
+4. Cardiovascular Endurance - optional
+5. Muscular Strength - optional
+6. Muscular endurance - optional
+7. Flexibility
+8. Body Composition
+9. Height
+10.Weight
+11.Interactiveness(on scale of 1-5)
+12.How often do you workout?
+13.Workout Mode preferred? 1. Outdoor 2. Indoor
+14.Are you sport enthusiast
+15.Type of body physique:- 1. Ectomorph 2. Endomorph 3.Mesomorph 
+16.Do you like to be mentored? (Scale of 1-5)
+17.Do you like to mentor? (Scale of 1-5)
+18.Relationship level you would like to achieve? Range based(1-5)
+19.Fitness Goal to be achieved? 1.Lose fat 2.Build muscle 3.Get stronger 4.Improve endurance/conditioning 5.Improve athletic skills 6.Improve joint flexibility
