@@ -21,3 +21,19 @@ Signup -email, Contact,
 18.Relationship level you would like to achieve? Range based(1-5)
 19.Fitness Goal to be achieved? 1.Lose fat 2.Build muscle 3.Get stronger 4.Improve endurance/conditioning 5.Improve athletic skills 
 20.Addons Would you like
+
+
+
+
+
+Pre Normalisation :
+ Divide Dataset into two different enntites
+1. Name, Age, Gender, Flexibility, Body Composition, Composition Percentage , Interactiveness, Workout Frequency, Workout Mode Preferred, is_sports_enthusiast, like_to_be_mentored, like_to_mentor, fitness_goal_to_be achieved, addons in session, Height_in_cms
+
+2. Name, Name Of Area, Pincode, Latitude, Longitude
+
+
+
+Post Normalisation:
+ Use cosine similarity for 1st dataset
+ use haversine distance for 2nd data set
